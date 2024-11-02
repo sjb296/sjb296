@@ -18,6 +18,9 @@ BSc Computer Science (Hons), University of Exeter, **Class I**.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ### 💼 Projects featured here
+- **Wavedash (WIP)** - [GitHub Repo](https://github.com/sjb296/wavedash)
+   - In the works: A sea swimmer/casual sailor's one-stop shop for waves & wind.
+   - **Technologies used:** React, Vite, Progressive Web App (PWA)
 - **Linear motion detection** - [GitHub Repo](https://github.com/sjb296/linear-motion-detection)
    - 3rd year dissertation resulting in novel method of linear motion detection by accelerometer.
    - **Technologies used:** Python, Jupyter, Numpy, Pandas
