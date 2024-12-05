@@ -28,6 +28,7 @@ BSc Computer Science (Hons), University of Exeter, **Class I**.
    - **Technologies used:** React, Vite, Progressive Web App (PWA)
 - **Portfolio site (WIP)** - [Link](https://sambarker.xyz)
    - In the works: A portfolio site on a Wordpress instanced self-hosted on a Debian Linux VPS.
+   - **Technologies used:** Wordpress, Linux, nginx
 - **Linear motion detection** - [GitHub Repo](https://github.com/sjb296/linear-motion-detection)
    - 3rd year dissertation resulting in novel method of linear motion detection by accelerometer.
    - **Technologies used:** Python, Jupyter, Numpy, Pandas
