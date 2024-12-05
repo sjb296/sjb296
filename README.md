@@ -12,7 +12,7 @@ I'm a software engineer with a passion for building real solutions to real probl
 
 BSc Computer Science (Hons), University of Exeter, **Class I**.
 
-### 🔧 Tools of the trade (Tech Stack)
+### 🔧 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)
@@ -20,11 +20,14 @@ BSc Computer Science (Hons), University of Exeter, **Class I**.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)
 
-### 💼 Projects featured here
+### 💼 Projects
 - **Wavedash (WIP)** - [GitHub Repo](https://github.com/sjb296/wavedash) | [Deployed app](https://wavedash.sambarker.xyz)
    - In the works: A sea swimmer/casual sailor's one-stop shop for waves & wind.
    - **Technologies used:** React, Vite, Progressive Web App (PWA)
+- **Portfolio site (WIP)** - [Link](https://sambarker.xyz)
+   - In the works: A portfolio site on a Wordpress instanced self-hosted on a Debian Linux VPS.
 - **Linear motion detection** - [GitHub Repo](https://github.com/sjb296/linear-motion-detection)
    - 3rd year dissertation resulting in novel method of linear motion detection by accelerometer.
    - **Technologies used:** Python, Jupyter, Numpy, Pandas
