@@ -1,7 +1,7 @@
 # Hi there, I'm Sam Barker.
 
 <a href="https://sambarker.xyz"><img src="https://img.shields.io/badge/-sambarker.xyz-fcba03?logo=googlechrome&logoColor=black"/></a>
-<a href="https://www.linkedin.com/in/sam-barker-/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sam-barker-/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin-white&logoColor=white"/></a>
 <a href="mailto:sambarker247@gmail.com"><img src="https://img.shields.io/badge/-sambarker247@gmail.com-1fba00?logo=gmail&logoColor=white"/></a>  
 
 I'm a software engineer with a passion for building real solutions to real problems, and answering real research questions with real answers. Currently seeking opportunities in **software engineering** with a focus on **web development**. My focus is on writing clean, optimized code and keeping at the forefront of technology, while not losing track of the solid foundations we build upon.
