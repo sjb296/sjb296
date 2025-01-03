@@ -23,11 +23,12 @@ BSc Computer Science (Hons), University of Exeter, **Class I**.
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)
 
 ### 💼 Projects
-- **Wavedash (WIP)** - [GitHub Repo](https://github.com/sjb296/wavedash) | [Deployed app](https://wavedash.sambarker.xyz)
-   - In the works: A sea swimmer/casual sailor's one-stop shop for waves & wind.
-   - **Technologies used:** React, Vite, TypeScript, Github Pages
-- **Portfolio site (WIP)** - [Link](https://sambarker.xyz)
-   - In the works: A portfolio site on a Wordpress instanced self-hosted on a Debian Linux VPS.
+- **Wavedash** - [GitHub Repo](https://github.com/sjb296/wavedash) | [Deployed app](https://wavedash.sambarker.xyz)
+   - A sea swimmer/casual sailor's one-stop shop for waves & wind.
+   - I'm working on publishing this to the Google Play Store. Watch this space!
+   - **Technologies used:** React, Vite, TypeScript, Github Pages, Progressive Web App
+- **Portfolio site** - [Link](https://sambarker.xyz)
+   - A portfolio site on a Wordpress instanced self-hosted on a Debian Linux VPS.
    - **Technologies used:** Wordpress, Linux, nginx
 - **Linear motion detection** - [GitHub Repo](https://github.com/sjb296/linear-motion-detection)
    - 3rd year dissertation resulting in novel method of linear motion detection by accelerometer.
