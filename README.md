@@ -6,7 +6,7 @@
 
 I'm a software engineer with a passion for building real solutions to real problems, and answering real research questions with real answers. Currently seeking opportunities in **software engineering** with a focus on **web development**. My focus is on writing clean, optimized code and keeping at the forefront of technology, while not losing track of the solid foundations we build upon.
 
-**[Check out my CV](https://sambarker.xyz/cv-2)**
+**[Check out my CV](https://sambarker.xyz/cv)**
 
 ### 📖 Education
 
