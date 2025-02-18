@@ -25,7 +25,6 @@ BSc Computer Science (Hons), University of Exeter, **Class I**.
 ### 💼 Projects
 - **Wavedash** - [GitHub Repo](https://github.com/sjb296/wavedash) | [Deployed app](https://wavedash.sambarker.xyz)
    - A sea swimmer/casual sailor's one-stop shop for waves & wind.
-   - I'm working on publishing this to the Google Play Store. Watch this space!
    - **Technologies used:** React, Vite, TypeScript, Github Pages, Progressive Web App
 - **Portfolio site** - [Link](https://sambarker.xyz)
    - A portfolio site on a Wordpress instanced self-hosted on a Debian Linux VPS.
