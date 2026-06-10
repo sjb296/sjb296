@@ -1,6 +1,5 @@
 # Hi there, I'm Sam Barker.
 
-<a href="https://sambarker.xyz"><img src="https://img.shields.io/badge/-sambarker.xyz-fcba03?logo=googlechrome&logoColor=black"/></a>
 <a href="https://www.linkedin.com/in/sam-barker-/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
 <a href="mailto:sambarker247@gmail.com"><img src="https://img.shields.io/badge/-sambarker247@gmail.com-1fba00?logo=gmail&logoColor=white"/></a>  
 
@@ -23,12 +22,15 @@ BSc Computer Science (Hons), University of Exeter, **Class I**.
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)
 
 ### 💼 Projects
+- **Computer vision car park fullness checker** - [GitHub repo](https://github.com/sjb296/sailing-carpark)
+   - Web app for checking the fullness of my sailing club park, so I know whether to cycle or drive.
+   - **Technologies used:** Python, OpenCV, YOLOv11
+- **Dashboard for checking whether an update has borked Arch Linux** - [GitHub repo](https://github.com/sjb296/linen-draper)
+   - Having installed recently I wrote a dashboard for checking whether package updates are unsafe to install.
+   - **Technologies used:** Python, reflex.dev, sqlite, Caddy, Anubis, 
 - **Wavedash** - [GitHub Repo](https://github.com/sjb296/wavedash) | [Deployed app](https://wavedash.sambarker.xyz)
    - A sea swimmer/casual sailor's one-stop shop for waves & wind.
    - **Technologies used:** React, Vite, TypeScript, Github Pages, Progressive Web App
-- **Portfolio site** - [Link](https://sambarker.xyz)
-   - A portfolio site on a Wordpress instanced self-hosted on a Debian Linux VPS.
-   - **Technologies used:** Wordpress, Linux, nginx
 - **Linear motion detection** - [GitHub Repo](https://github.com/sjb296/linear-motion-detection)
    - 3rd year dissertation resulting in novel method of linear motion detection by accelerometer.
    - **Technologies used:** Python, Jupyter, Numpy, Pandas
@@ -38,7 +40,8 @@ BSc Computer Science (Hons), University of Exeter, **Class I**.
 
 ### 🌟 What I get up to in my spare time
 
-- Sailing & fixing a 50 year old Mirror dinghy with mates (it only leaks a little bit) ⛵
+- Sailing my Laser dinghy ⛵
+- Learning the bass guitar
 - Birdwatching & walking round beautiful Dorset 🐦
 - Sea swimming when I'm brave enough 🌊
 
